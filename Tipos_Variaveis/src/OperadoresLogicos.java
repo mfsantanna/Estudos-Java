@@ -7,7 +7,7 @@ public class OperadoresLogicos
 
         if (condicao1 && condicao2)
         {
-            System.out.println("As duas são Verdadieras!");
+            System.out.println("As duas são Verdadeiras!");
         }
         if (condicao1 || condicao2)
         {
